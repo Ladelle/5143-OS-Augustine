@@ -1,6 +1,6 @@
 ## Ladelle Augustine
 #### Repo: 5143 Operating Systems Repo
-#### Email: ladelle2016@gmail.com
+
 #### N/A YET
 #### Image:
 ![oceandell](https://user-images.githubusercontent.com/47011627/73051865-50f52800-3e49-11ea-9e89-7e81cc4fcb0c.JPG)
